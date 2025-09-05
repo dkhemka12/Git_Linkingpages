@@ -1,0 +1,46 @@
+/* linkingpage.css - Styles for index.html */
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #ea0505;
+    margin: 0;
+    padding: 0; 
+    box-sizing: border-box;
+    
+}
+
+h1, h2, h3 {
+    color: #000000;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+
+}
+img {
+    display: block;
+    margin: 20px auto;
+    border: 2px solid #ccc;
+    border-radius: 10px;
+    box-shadow: 2px 2px 12px rgba(0,0,0,0.1);
+    transition: transform 0.3s, box-shadow 0.3s
+}
+span {
+    display: block;
+    text-align: center;
+    font-size: 1.2em;
+    margin-top: 10px;
+    color: #000000;
+}
+p {
+    text-align: center;
+    font-size: 1em;
+    color: #000000;
+    margin-top: 10px;
+    margin-bottom: 10px;
+
+}
+a {
+    text-decoration: none;
+    color: #0000EE;
+    
+}
